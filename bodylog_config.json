@@ -1,0 +1,13 @@
+{
+  "metrics": [
+    "bp",
+    "hr",
+    "temp",
+    "sugar",
+    "spo2",
+    "rr",
+    "weight",
+    "waist",
+    "bmi"
+  ]
+}

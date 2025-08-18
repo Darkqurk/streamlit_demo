@@ -1,0 +1,20 @@
+{
+  "metrics": [
+    "sugar"
+  ],
+  "thresholds": {
+    "bp_sys_hi": 140,
+    "bp_dia_hi": 90,
+    "bp_sys_very": 180,
+    "bp_dia_very": 120,
+    "hr_lo": 50,
+    "hr_hi": 120,
+    "temp_hi": 38.5,
+    "sugar_hi": 180,
+    "sugar_very": 240,
+    "sugar_lo": 60,
+    "spo2_lo": 92,
+    "rr_lo": 10,
+    "rr_hi": 24
+  }
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2025-08-14T10:43:28.169159",
+        "blood_pressure": "120/80",
+        "pulse": 60,
+        "temperature": 37.0,
+        "blood_sugar": 100,
+        "spo2": 99
+    }
+]
